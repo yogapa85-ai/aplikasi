@@ -1,0 +1,8 @@
+{
+  "name": "CR 41400 Field Ops",
+  "description": "Aplikasi monitoring operasional real-time Karesidenan Pati (CR 41400) untuk tim lapangan Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
